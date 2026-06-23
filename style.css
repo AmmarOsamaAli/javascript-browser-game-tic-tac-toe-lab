@@ -23,3 +23,19 @@ body {
     font-size: 64px;
     text-align: center;
 }
+
+#reset {
+    width: 150px;
+    height: 50px;
+    border-radius: 8px;
+    color: red;
+    border: 3px white solid;
+    font-weight: 400;
+    font-size: 15px;
+}
+
+#reset:hover {
+    background-color: rgb(255, 142, 142);
+    border: 3px rgb(255, 0, 0) solid;
+    cursor: pointer;
+}
